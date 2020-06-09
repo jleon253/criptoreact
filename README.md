@@ -2,7 +2,7 @@
 
 This small app allows you to consult and quote cryptocurrencies with the normal currency, through an API.
 
-**Demo:**
+**Demo:** https://jleon253.github.io/criptoreact
 
 ### Dev tools used:
 
