@@ -7,7 +7,7 @@ This small app allows you to consult and quote cryptocurrencies with the normal 
 ### Dev tools used:
 
 > - HTML 5, CSS 3, Bootstrap 4, SpinKit
-> - ES6, React.js (Custom Hooks & PropTypes)
+> - ES6, React.js (Styled Components, Custom Hooks & PropTypes)
 > - API (https://min-api.cryptocompare.com)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
